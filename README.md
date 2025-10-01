@@ -46,12 +46,12 @@ Once the warehouse was ready, I wrote SQL queries to uncover **business insights
 These outputs show how data can support **better business decisions** in a clear and actionable way.  
 
 ---
-📜 License
+## 📜 License
 
 This project is under the MIT License.
 Feel free to use, modify, or share it with proper attribution.
 
-👤 About Me
+## 👤 About Me
 
 I’m Naresh Kumar 👋.
 I come from a strong background in data science and analytics, and I’m passionate about solving business problems with data.
@@ -66,7 +66,7 @@ A few things about me:
 
 If you’d like to connect, collaborate, or just chat about data, feel free to reach out!
 
-⭐ Support
+## ⭐ Support
 
 If this project resonates with you:
 
