@@ -1,4 +1,5 @@
 /*
+
 ================================================================================
  Script:      Create Database and Schemas
  Purpose:     
@@ -16,8 +17,6 @@
    - All existing data will be permanently DELETED.
    - Ensure proper backups are taken before executing this script in production.
 
- Author:      Naresh Kumar
-================================================================================
 */
 
 USE master;
