@@ -49,7 +49,7 @@ These outputs show how data can support **better business decisions** in a clear
 
 ## 📂 Repository Structure
 
-```bash
+
 sql-data-warehouse-project/
 │── data/              # Raw source files (ERP & CRM)
 │── scripts/           # SQL scripts for ETL and transformations
