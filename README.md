@@ -46,17 +46,6 @@ Once the warehouse was ready, I wrote SQL queries to uncover **business insights
 These outputs show how data can support **better business decisions** in a clear and actionable way.  
 
 ---
-
-## 📂 Repository Structure
-
-
-sql-data-warehouse-project/
-│── data/              # Raw source files (ERP & CRM)
-│── scripts/           # SQL scripts for ETL and transformations
-│── models/            # Data model diagrams (ERD, schema docs)
-│── reports/           # Analytics queries and results
-│── README.md          # Project documentation
-
 📜 License
 
 This project is under the MIT License.
